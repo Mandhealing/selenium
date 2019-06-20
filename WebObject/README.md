@@ -14,7 +14,7 @@
 
 ### 前置知识和环境安装
 - 前置知识:
-1. 需要入门级Python知识，大家可以去实验楼操作学习
+1. 需要入门级Python知识，大家可以去[实验楼](https://www.shiyanlou.com/courses/596)操作学习
 2. 看一下Selenium API 文档
 - 环境:
   - 安装Python3.7 和selenium2
